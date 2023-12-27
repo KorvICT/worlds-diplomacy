@@ -50,12 +50,14 @@
 
 ## Durwick Civil War (pre-560 - 562 CE)
 * Pre-560
-    - Pro-Cliford Rebels take Lemaford ($C(\text{Towbole})$)
+    - Pro-Cliford Rebels take Lemaford
+
 * 560 CE
     - Durwick declared a Failed State.
     - Towbole Independence Movement <mark style="background-color: salmon">(TIM)</mark> starts.
     - TIM takes Wadington & Towbole.
     - Cliford Rebels cede Lemaford to TIM, extending TIM territory to Cliford Border.
+
 * 561 CE
     - Durwick Peace Accords drafted:
         - Ceding of land to Cliford Rebels (Neutral Lands, NL)
@@ -70,27 +72,75 @@
 * 562 CE
     - Towbolean Republic gains Independence
     - Stothamia gains Independence
+
 * **End of Event**
 
 ## Potential Peace? (564 CE - 570 CE)
 * 564 - 569 CE
     - International relations improved.
+
 * 569 CE
     - <mark style="background-color: magenta">Namaz</mark> and <mark style="background-color: pink">Offshoots</mark> are formed.
     - Ephi remains on brink of civil war.
     - Offshoots territories continue to grow.
     * *The Offshoots*
-        - Polisi (Polisos)
-        - Lyol (Leon)
+        - <mark style="background-color: cyan">Polisi (Polisos)</mark>
+        - <mark style="background-color: salmon">Lyol (Leon)</mark>
         - Gornox (Gornaxos)
         - Gorm (Gormia)
     - Pigenia captured by Lyol
+
 * 570 CE
-    - Mirak (Myrakintian Offshoot) forms.
+    - <mark style="background-color: lime">Mirak (Mirakyntian Offshoot)</mark> forms.
     - Ephi declares war on Namaz and Offshoots
 
 ## Ephian Civil War (570 CE -)
 * 570 CE
-    - Ephi $\xrightarrow{W}$ Namazi Offshoots
+    - Ephi $\xrightarrow{W}$ Namazi Offshoots + Namaz
     - Bombings begin across the empire.
-    - Mornakouros ($C(\text{Leon})$) captured by Lyol.
+    - Mornakouros ($C(\text{Leon})$) & Papia captured by Lyol.
+    - <mark style="background-color: salmon">Lyol</mark> splits from Offshoots
+    - Lyol $\xrightarrow{A}$ Ephi
+    - Aepios & Juklesos ($C(\text{Mirakyntia})$) captured by Mirak
+
+* 571 CE
+    - <mark style="background-color: lime">Mirak</mark> splits from Offshoots
+    - Mirak $\xrightarrow{A}$ Ephi
+    - Pydna & Odicea ($C(\text{Polisos})$) captured by Polisi
+    - <mark style="background-color: cyan">Polisi</mark> splits from Offshoots
+    - Polisi $\xrightarrow{A}$ Ephi
+
+* 572 CE: The Namz Accords
+    - Kouros Peace Accord Drafted
+        - Ephi $\Leftrightarrow$ <mark style="background-color: salmon">Lyol</mark>
+        - Leoni Independence
+        - Lyol disbands
+        - Free Naval Routes
+        - Withdrawl from Boshil, Rithos & Teoscuria
+    - Odicea Peace Accord Drafted
+        - Ephi $\Leftrightarrow$ <mark style="background-color: cyan">Polisi</mark>
+        - Polisian Independence
+        - Withdrawl from Mesmosia & Teoscuria
+        - Polisi disbands
+    - Aepios Peace Accord Drafted
+        - Ephi $\Leftrightarrow$ <mark style="background-color: lime">Mirak</mark>
+        - Mirakyntian Independence
+        - Mirak disbands
+        - Withdrawl from Mesmosia & Poliso
+    - Spartapo Peace Accord Drafted
+        - Ephi $\Leftrightarrow$ <mark style="background-color: pink">Offshoots</mark>
+        - Gornaxi Independence
+        - Gormian Independence referendum
+        - Withdrawl from Teoscuria
+        - Offshoots disband
+    - Namazi Accord Drafted
+        - Ephi, Chavenest + Theria $\Leftrightarrow$ <mark style="background-color: magenta">Namaz</mark>
+        - Namaz disbands
+        - Namazi Independence referendum
+        - Withdrawl from other lands
+    - <mark style="background-color: cyan">Polisi</mark> captures Chaionia.
+
+* 573 CE
+    - Odicea Peace Accord Signed.
+    - Aepios Peace Accord Signed & Fulfilled.
+    - Odicea Peace Accord Fulfilled.
