@@ -10,8 +10,8 @@ math: mathjax
 ---
 
 # Info
-* Drafted: 572 CE 
-* Signed: 573 -
+* Drafted: 572 CE - 
+* Signed: 573 CE -
 
 ---
 # Parties: 
@@ -23,6 +23,7 @@ math: mathjax
 * Lyol
 * Polisi
 * Mirak
+* Mezha
 
 ---
 
@@ -30,9 +31,9 @@ math: mathjax
 * Parties: Ephi $\Leftrightarrow$ Lyol
 * Articles:
     - Leoni Independence
-    - Lyol disbands
-    - Free Naval Routes
-    - Withdrawl from Boshil, Rithos & Teoscuria
+    - ~~Lyol disbands~~
+    - ~~Free Naval Routes~~
+    - ~~Withdrawl from Boshil, Rithos & Teoscuria~~
 
 ---
 
@@ -62,9 +63,10 @@ math: mathjax
 * Parties: Ephi $\Leftrightarrow$ Offshoots
 * Articles:
     - Gornaxi Independence
-    - Gormian Independence referendum
-    - Withdrawl from Teoscuria
+    - Gormian Independence
     - Offshoots disband
+* Signed: Q3, 573 CE
+* Completed: 573 CE
 
 ---
 
@@ -72,5 +74,11 @@ math: mathjax
 * Parties: Ephi, Chavenest + Theria $\Leftrightarrow$ Namaz
 * Articles:
     - Namaz disbands
-    - Namazi Independence referendum
-    - Withdrawl from other lands
+    - Namazi Independence
+* Signed: Q4, 573 CE
+* Completed: 573 CE
+
+---
+
+## TBN
+* Parties: Ephi $\Leftrightarrow$ Mezha

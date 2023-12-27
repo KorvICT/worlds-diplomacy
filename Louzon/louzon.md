@@ -144,3 +144,10 @@
     - Odicea Peace Accord Signed.
     - Aepios Peace Accord Signed & Fulfilled.
     - Odicea Peace Accord Fulfilled.
+    - Gornaxos captured by Gornox
+    - In response to Kouros, Lyol continues their attacks, cutting off Ephi's naval routes.
+    - Kouros, Spartapo & Namazi drafting continues.
+    - Spartapo Peace Accord Signed & Fulfilled.
+    - <mark style="background-color: lightgreen">Mezha (Mesmosia)</mark> formed
+    - <mark style="background-color: lightgreen">Mezha</mark> $\xrightarrow{A}$ Ephi
+    - Namazi Peace Accord signed & fulfilled.
