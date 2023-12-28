@@ -94,7 +94,7 @@
     - <mark style="background-color: lime">Mirak (Mirakyntian Offshoot)</mark> forms.
     - Ephi declares war on Namaz and Offshoots
 
-## Ephian Civil War (570 CE -)
+## Ephian Civil War (570 CE - 576 CE)
 * 570 CE
     - Ephi $\xrightarrow{W}$ Namazi Offshoots + Namaz
     - Bombings begin across the empire.
@@ -151,3 +151,39 @@
     - <mark style="background-color: lightgreen">Mezha (Mesmosia)</mark> formed
     - <mark style="background-color: lightgreen">Mezha</mark> $\xrightarrow{A}$ Ephi
     - Namazi Peace Accord signed & fulfilled.
+
+* 574 CE (Itros / Referendum)
+    - Itros Peace Accord Drafted & Signed
+        - Ephi $\Leftrightarrow$ <mark style="background-color: lightgreen">Mezha</mark>
+        - Mesmosian Independence Referendun
+        - Mezha disbands
+    - The Options:
+        1. Independence (Motion I)
+        2. Remain (Motion R)
+        3. Union / Deal (Motion U)
+    - The results (Round I):
+
+| Independence | Remain | ~~Union / Deal~~ | Abstention |
+|--------------|--------|--------------|------------|
+| 4k | 5k | 3k | 6k |
+
+* Round II
+    - The Options:
+        1. Independence
+        2. Remain
+    - The Results (Round II):
+
+| Independence | Remain | Abstention |
+|--------------|--------|------------|
+| 10k | 3k | 5k |
+
+* 575 CE
+    - Itros Peace Accord Fulfilled.
+    - Kouros Peace Accord Signed.
+
+* 576 CE
+    - Kouros Peace Accord Fulfilled
+    > When it's all said and done, we got what we wanted: A free Leon. - Statement by Lyol forces
+    - Ephi renamed to Syma
+
+* **End Of Event**

@@ -10,8 +10,8 @@ math: mathjax
 ---
 
 # Info
-* Drafted: 572 CE - 
-* Signed: 573 CE -
+* Drafted: 572 CE - 573 CE
+* Signed: 573 CE - 576 CE
 
 ---
 # Parties: 
@@ -31,9 +31,11 @@ math: mathjax
 * Parties: Ephi $\Leftrightarrow$ Lyol
 * Articles:
     - Leoni Independence
-    - ~~Lyol disbands~~
-    - ~~Free Naval Routes~~
+    - Lyol disbands
+    - Free Naval Routes
     - ~~Withdrawl from Boshil, Rithos & Teoscuria~~
+* Signed: 575 CE
+* Completed: 576 CE
 
 ---
 
@@ -80,5 +82,11 @@ math: mathjax
 
 ---
 
-## TBN
+## Itros
 * Parties: Ephi $\Leftrightarrow$ Mezha
+* Articles:
+    - Ephi $\Leftrightarrow$ Mezha
+    - Mesmosian Independence Referendun
+    - Mezha disbands
+* Signed: Q1, 574 CE
+* Completed: 575 CE
