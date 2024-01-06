@@ -187,3 +187,69 @@
     - Ephi renamed to Syma
 
 * **End Of Event**
+
+## Decade of Peace (576 - 586 CE)
+
+* For about a decade, there was peace.
+* A Methegian - Igaltian summit was held on the topic of Qadawan, a small exclave of Igaltia, claimed by Methegia. Nothing came of the event.
+* More claims sprouted over the following years, all coming to a head in 585 CE.
+
+* 585 CE: **The Referendum**
+    - A referendum was put forth by Namia, regarding the Derian lands north of the Gidubaqat river. 
+    - The result? The referendum succeeded.
+    - Namian troops were stationed on the border as Der began asking others for support.
+* 586 CE: **The Parting Shot**
+    - Namian - Derian peace talks regarding what Namia declared as Namian Gidubaqat began to falter. Der stated that Urbidia should join talks as an intermediary, with the Namian Monarch stating:
+    > "We will take back Namian Gidubaqat, by **any means necessary.**"
+    - Eventually, in 586, The Namian Monarch puts out a decree:
+    > "No person who shall claim the lands of Namian Gidubaqat for an enemy, or any other nation associated with an enemy **shall be spared**. [...] Namian Gidubaqat shall remain a free member of the Namian Realm, free from enemy control. All dissidents **shall be punished as traitors, ans punished under the crime of Treason.**"
+    - Note: The punishment for Treason in Namia is **death**.
+
+## The Bathement of Blood (586 CE)
+* Namia $\xrightarrow{W}$ Der
+* The Battle of Marshin
+    - Namia $\xrightarrow{A}$ Derian Fleet
+    - Relatively minor, Derian Loss.
+* The Crossing of the Gidubaqut
+    - Namia $\xrightarrow{A}$ Derian Fleet
+    - First (and last) Major conflict of what became known as the Bathement of Blood.
+    - Derian Disaster, Der was defeated.
+* **The Der Plan**
+    - Namia would take Gidubaqut immediately.
+    - The remainder of Der would either be integrated or gain independence.
+
+* **End Of Event**
+
+## Implementation of The Der Plan (586 CE -)
+* 586 CE
+    - Namia annexed Gidubaqut, renamed to Dûr-Bia.
+* 588 CE
+    - Remainder of Namian Der recieves Independence referendums.
+        - Aksep
+        - Qidshak
+        - Tutjar
+        - Kari
+
+| Province | Independence | Integration | Abstention | Result |
+|----------|--------------|-------------|------------|--------|
+| Aksepia | 51k (26%) | 51k (26%) | <mark>91k (47%)</mark> | Abstain (2nd Round) |
+| Qidshak | 113k (38%) | 113k (38%) | 70k (23%) | Tie (2nd Round) |
+| Tutjarku | <mark>72k (42%)</mark> | 52k (30%) | 50k (28%) | Independence |
+| Karia | 61k (25%) | <mark>100k (41%)</mark> | 82k (33%) | Integration |
+
+* 589 CE
+    - Tutjaria gains Independence.
+    - Karian Integration Begins.
+    - 2nd Round of Referendums begins.
+
+| Province | Independence | Integration | Abstention | Result |
+|----------|--------------|-------------|------------|--------|
+| Aksepia | 91k (47%) | <mark>92k (47%)</mark> | 10k (5%) | Integration |
+| Qidshak | 123k (41%) | <mark>143k (48%)</mark> | 30k (10%) | Integration |
+
+* 590 CE
+    - Questions remain about Integration.
+    - Qidshak requests Integration with Tutjarku. Namia refuses.
+    - Aksepian Integration begins.
+    - South Qidshak (South of the Unaktum River) begins integration with Tutjarku
+    - Northern Militias form in North Qidshak.
