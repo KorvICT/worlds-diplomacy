@@ -238,7 +238,7 @@
 | Karia | 61k (25%) | <mark>100k (41%)</mark> | 82k (33%) | Integration |
 
 * 589 CE
-    - Tutjaria gains Independence.
+    - Tutjarku gains Independence.
     - Karian Integration Begins.
     - 2nd Round of Referendums begins.
 
