@@ -202,7 +202,7 @@
     - Namian - Derian peace talks regarding what Namia declared as Namian Gidubaqat began to falter. Der stated that Urbidia should join talks as an intermediary, with the Namian Monarch stating:
     > "We will take back Namian Gidubaqat, by **any means necessary.**"
     - Eventually, in 586, The Namian Monarch puts out a decree:
-    > "No person who shall claim the lands of Namian Gidubaqat for an enemy, or any other nation associated with an enemy **shall be spared**. [...] Namian Gidubaqat shall remain a free member of the Namian Realm, free from enemy control. All dissidents **shall be punished as traitors, ans punished under the crime of Treason.**"
+    > *Decree A586 (or the Enablement Act)*: "No person who claim the lands of Namian Gidubaqat for an enemy, or any other nation associated with an enemy **shall be spared**. [...] Namian Gidubaqat shall remain a free member of the Namian Realm, free from enemy control. All dissidents **shall be tried ex parte as traitors, and punished under the crime of Treason.**"
     - Note: The punishment for Treason in Namia is **death**.
 
 ## The Bathement of Blood (586 CE)
