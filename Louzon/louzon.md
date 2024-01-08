@@ -259,3 +259,12 @@
     - Aksepia and Karia integrate with Namia.
 
 * **End of Event**
+
+## Towbolian Invasion of Aldocklea (591 CE)
+* Towbole takes Tethamburgh, Westcking & Harham.
+* Battle of Godbury
+    - Aldocklea $\xrightarrow{A}$ Towbole
+    - Towbolian Defeat
+* Towbole falls.
+
+* **End of Event**
