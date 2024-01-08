@@ -220,7 +220,7 @@
 
 * **End Of Event**
 
-## Implementation of The Der Plan (586 CE -)
+## Implementation of The Der Plan (586 CE - 591 CE)
 * 586 CE
     - Namia annexed Gidubaqut, renamed to Dûr-Bia.
 * 588 CE
@@ -253,3 +253,9 @@
     - Aksepian Integration begins.
     - South Qidshak (South of the Unaktum River) begins integration with Tutjarku
     - Northern Militias form in North Qidshak.
+* 591 CE
+    - South Qidshak (am Main) integrates with Tutjarku.
+    - Northern Militias unite with Tutjarku as Shaltian Governorate.
+    - Aksepia and Karia integrate with Namia.
+
+* **End of Event**
