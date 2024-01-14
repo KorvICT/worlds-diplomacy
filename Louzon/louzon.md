@@ -260,11 +260,11 @@
 
 * **End of Event**
 
-## Towbolian Invasion of Aldocklea (591 CE)
-* Towbole takes Tethamburgh, Westcking & Harham.
+## Watlian Invasion of Aldocklea (591 CE)
+* Watford takes Tethamburgh, Westcking & Harham.
 * Battle of Godbury
-    - Aldocklea $\xrightarrow{A}$ Towbole
-    - Towbolian Defeat
-* Towbole falls.
+    - Aldocklea $\xrightarrow{A}$ Watford
+    - Watlian Defeat
+* Watford falls.
 
 * **End of Event**
