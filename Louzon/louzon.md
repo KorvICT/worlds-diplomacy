@@ -268,3 +268,66 @@
 * Watford falls.
 
 * **End of Event**
+
+## Years of Peace (591 CE -)
+* Many summits occur to discuss territorial disputes.
+    - GTS92 (592 CE)
+    - GTS95 (595 CE) [Upcoming]
+
+
+## Grand Territorial Summit (GTS92) (592 CE)
+* Members:
+    - Namia (7, 8)
+    - Urdidia (7, 8)
+    - Nuzitumia (5, 6, 7)
+    - Haradabia (3)
+    - Kidsaria (3)
+    - Dûrka (6)
+    - Saghavar (4, 5)
+    - Mania (9)
+    - Igaltia (2)
+    - Methegia (2)
+* Article 1: GTS Accord
+    > For a **Final** Decision on a land claim, **All** members party to the *article* must agree on the decision. Any dissenting members *party to the article* veto the decision.
+* Article 2: Qadawan
+    - Igaltia
+    - Methegia
+* Article 3: Shekh
+    - Haradabia
+    - Kidsaria
+    > **If** the Kidsarian claim is substantiated, The Haradabian nation will cease to be. - Haradabian Leader
+* Article 4: Tubkala **[COMPLETE]**
+    - Saghavar
+    - Final: Tubkalan expansion. (Passed: 9-0-1)
+    > It's not our place to decide on Tubkala [...] we have our own battles to fight. - Nuzitumian Monarch
+* Article 5: Jasan
+    - Saghavar
+    - Nuzitumia
+* Article 6: Zamabirania **[COMPLETE]**
+    - Nuzitumia
+    - Dûrka
+    - ~~1st Proposal: Nuzitumia keeps Zamabirania.~~ (Failed: 6-1-3)
+    - ~~2nd Proposal: Dûrka gets Zamabirania.~~ (Failed: 6-1-3)
+    - ~~3rd Proposal: Zamabirania gains independence.~~ (Failed: 5-2-3)
+    - ~~4th Proposal: Neutral Ownership.~~ (Failed: 5-2-3)
+    - 5th Proposal: Amend Article 1. (Passed: 10-0)
+    - 6th Proposal: Revote 2nd Proposal. (Passed: 10-0)
+    - Final Proposal: Dûrka gets Zamabirania. (Passed: 6-0-4)
+* Article 7: Sipia
+    - Nuzitumia
+    - Namia
+    - Urbidia
+* Article 8: Nidian Handle **[COMPLETE]**
+    - Namia
+    - Urbidia
+    - ~~1st Proposal: Urbidia Keeps Nidian Handle.~~ (Failed: 8-1-1)
+    - ~~2nd Proposal: Namia gains Nidian Handle.~~ (Failed: 8-1-1)
+    - 3rd Proposal: Nidian Handle becomes neutral land. (Passed: 8-0-2)
+    - 4th Proposal: Revote 2nd Proposal. (Passed: 2-0-8)
+    - Final Proposal: Namia gains Nidian Handle after neutrality (GTS95). (Passed: 10-0)
+    > Namia finally gains what we needed. Sure, it may be a start, but it's honest work. - Namian Monarch.
+* Article 9: Whitford Island
+    - Mania
+    - ~~1st Proposal: Mania maintains control of Whitford.~~ (Failed: 1-9)
+    - ~~2nd Proposal: Mania cedes control of Whitford to Neutral Party.~~ (Failed: 9-1)
+> Our fear is that, well, when it comes to Articles 2 & 3, we're afraid that our decision will lead to not just fights at the table. - GTS92 General 
