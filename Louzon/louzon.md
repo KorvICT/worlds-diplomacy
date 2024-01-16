@@ -269,10 +269,12 @@
 
 * **End of Event**
 
-## Years of Peace (591 CE -)
+## Years of Peace (591 CE - )
 * Many summits occur to discuss territorial disputes.
     - GTS92 (592 CE)
-    - GTS95 (595 CE) [Upcoming]
+    - GTS95 (595 CE)
+    - GTS98 (598 - 599 CE)
+* As a result, neutral zones were created.
 
 
 ## Grand Territorial Summit (GTS92) (592 CE)
@@ -289,20 +291,28 @@
     - Methegia (2)
 * Article 1: GTS Accord
     > For a **Final** Decision on a land claim, **All** members party to the *article* must agree on the decision. Any dissenting members *party to the article* veto the decision.
-* Article 2: Qadawan
+* Article 2: Qadawan **[COMPLETE]**
     - Igaltia
     - Methegia
-* Article 3: Shekh
+    - ~~1st Proposal: Igaltian claim substantiated.~~ (Failed: 9-1)
+    - FINAL Proposal: Methegia gets Qadawan (Passed: 10-0)
+    > We'd rather lose Qadawan, than lose the nation of Igaltia. - Igaltian Monarch.
+* Article 3: Shekh **[COMPLETE]**
     - Haradabia
     - Kidsaria
     > **If** the Kidsarian claim is substantiated, The Haradabian nation will cease to be. - Haradabian Leader
+    - ~~1st Proposal: Shekh remains part of Haradabia.~~ (Failed: 9-1)
+    - ~~2nd Proposal: Kidsarian claim is substantiated.~~ (Failed: 9-1)
+    - CURRENT Proposal: Article 3 is delayed to 595. (Passed: 2-8)
 * Article 4: Tubkala **[COMPLETE]**
     - Saghavar
     - Final: Tubkalan expansion. (Passed: 9-0-1)
     > It's not our place to decide on Tubkala [...] we have our own battles to fight. - Nuzitumian Monarch
-* Article 5: Jasan
+* Article 5: Jasan **[COMPLETE]**
     - Saghavar
     - Nuzitumia
+    - ~~1st Proposal: Saghavar gets Jasan~~ (Failed: 1-1-8)
+    - Final Proposal: Nuzitumia gets Jasan (Passed: 10-0)
 * Article 6: Zamabirania **[COMPLETE]**
     - Nuzitumia
     - Dûrka
@@ -313,10 +323,13 @@
     - 5th Proposal: Amend Article 1. (Passed: 10-0)
     - 6th Proposal: Revote 2nd Proposal. (Passed: 10-0)
     - Final Proposal: Dûrka gets Zamabirania. (Passed: 6-0-4)
-* Article 7: Sipia
+* Article 7: Sipia **[COMPLETE]**
     - Nuzitumia
     - Namia
     - Urbidia
+    - ~~1st Proposal: Namia keeps Sipia.~~ (Failed: 1-2-7)
+    - ~~2nd Proposal: Urbidia gets Sipia.~~ (Failed: 2-1-7)
+    - Final Proposal: Nuzitumia gets Sipia. (Passed: 3-0-7)
 * Article 8: Nidian Handle **[COMPLETE]**
     - Namia
     - Urbidia
@@ -326,8 +339,99 @@
     - 4th Proposal: Revote 2nd Proposal. (Passed: 2-0-8)
     - Final Proposal: Namia gains Nidian Handle after neutrality (GTS95). (Passed: 10-0)
     > Namia finally gains what we needed. Sure, it may be a start, but it's honest work. - Namian Monarch.
-* Article 9: Whitford Island
+* Article 9: Whitford Island **[COMPLETE]**
     - Mania
     - ~~1st Proposal: Mania maintains control of Whitford.~~ (Failed: 1-9)
-    - ~~2nd Proposal: Mania cedes control of Whitford to Neutral Party.~~ (Failed: 9-1)
+    - Final Proposal: Mania cedes control of Whitford to Neutral Party. (Passed: 7-3)
 > Our fear is that, well, when it comes to Articles 2 & 3, we're afraid that our decision will lead to not just fights at the table. - GTS92 General 
+* All articles were completed before the deadline.
+
+* **End Of Event**
+
+## GTS95 (595 CE)
+* Members:
+    - Urbidia (2)
+    - Namia (2)
+    - Haradabia (3)
+    - Kidsaria (3)
+* Article 1: GTS Accord
+    > For a **Final** Decision on a land claim, **All** members party to the *article* must agree on the decision. Any dissenting members *party to the article* veto the decision.
+* Article 2: Nidian Handle Handover **[COMPLETE]**
+    - Urdidia
+    - Namia
+    - Handover Completed
+* Article 3: Shekh
+    - Haradabia
+    - Kidsaria
+    - ~~1st Proposal: Kidsarian claim Substantiated.~~ (Failed: 2-2)
+    - ~~2nd Proposal: Haradabia claim substantiated.~~ (Failed: 3-1)
+    - Current Proposal: Delay to GTS98. (Passed: 2-0-2)
+
+* **End Of Event**
+
+## GTS98 (598 - 599 CE)
+* Members:
+    - Haradabia
+    - Kidsaria
+* Article 1: GTS Accord
+    > For a **Final** Decision on a land claim, **All** members party to the *Accord* must agree on the decision. Any dissenting members *party to the Accord* veto the decision.
+* Article 2: Shekh
+    - Haradabia
+    - Kidsaria
+    - ~~1st Proposal: Kidsarian claim Substantiated.~~ (Failed: 1-1)
+    - ~~2nd Proposal: Haradabia claim substantiated.~~ (Failed: 1-1)
+    - Final Proposal: Independent Arbitration. (Passed: 2-0)
+
+### GTS Independent Arbitration (599 CE)
+* The Council:
+    - Namia
+    - Urdidia
+    - Nuzitumia
+    - Leon
+    - Juktasia
+    - Dûrka
+    - Saghavar
+    - ~~Mania~~
+    - ~~Igaltia~~
+    - ~~Methegia~~
+    - Chavenest
+* Case 99A: Haradabia v Kidsaria
+    - Motion H (Haradabian Claim): 1-1-9
+        - Namia (D)
+        - Urdidia (A)
+        - Nuzitumia (-)
+        - Leon (-)
+        - Juktasia (-)
+        - Dûrka (-)
+        - Saghavar (-)
+        - Mania (-)
+        - Igaltia (-)
+        - Methegia (-)
+        - Chavenest (-)
+    - Motion K (Kidsarian Claim): 0-3-8
+        - Namia (-)
+        - Urdidia (D)
+        - Nuzitumia (D)
+        - Leon (-)
+        - Juktasia (-)
+        - Dûrka (D)
+        - Saghavar (-)
+        - Mania (-)
+        - Igaltia (-)
+        - Methegia (-)
+        - Chavenest (-)
+    - Motion N (Neutral Claim): 6-0-5
+        - Namia (-)
+        - Urdidia (-)
+        - Nuzitumia (A)
+        - Leon (A)
+        - Juktasia (A)
+        - Dûrka (A)
+        - Saghavar (A)
+        - Mania (-)
+        - Igaltia (-)
+        - Methegia (-)
+        - Chavenest (A)
+* Shekh Neutrality Zone (SNZ) created
+
+* **End Of Event**
