@@ -269,13 +269,16 @@
 
 * **End of Event**
 
-## Years of Peace (591 CE - )
+## Years of Peace (591 CE - 599 CE)
 * Many summits occur to discuss territorial disputes.
     - GTS92 (592 CE)
     - GTS95 (595 CE)
     - GTS98 (598 - 599 CE)
 * As a result, neutral zones were created.
-
+* Artai, Durai & Neo-Dur forms. (599 CE)
+* Neo-Dur takes Shuzida.
+* Eku forms.
+* As the century ends, Namia declares war on the Rebel Groups
 
 ## Grand Territorial Summit (GTS92) (592 CE)
 * Members:
@@ -435,3 +438,33 @@
 * Shekh Neutrality Zone (SNZ) created
 
 * **End Of Event**
+
+## Namian Civil War (600 CE - )
+* Parties
+    - Namia (Hagan [~], Keshlakia)
+    - Namian Rebels
+        - Artai (Northern Namia)
+        - Durai (Southern Namia, Dur County, Dur-Dara, Duria)
+            - Nami-Durai (Namia)
+            - ~~Urbi-Durai (Urbidia)~~
+            - ~~Hara-Durai (Haradabia)~~
+            - ~~Hapum-Durai (Hapumia)~~
+        - Neo-Der (Der)
+        - Eku (Elul)
+        - Ibai (Ibagubaid)
+* 600 CE
+    * Ekui Offensive
+        - Eku breaks out of Elul into Namia
+        - Eku takes City of Hagan
+    * Ibagubaid & Hagan starts to slip from Namian control
+    * Ibai forms (Ibagubaid), Namia declares war on Ibai
+    * Namia declared a failed State.
+    * Neo-Der takes Mash.
+* 601 CE
+    * Artai, Durai, Neo-Der and Eku declare Naval Borders.
+    * Durai-associated rebels (Urbi-Durai) take Dur County.
+    * Ibai takes Hiruniba.
+    * Durai-associated rebels (Hara-Durai) take Dur-Dara.
+    * Dûr-Bia falls to Rebels
+    * Durai-associated rebels (Hapum-Durai) take Duria.
+
