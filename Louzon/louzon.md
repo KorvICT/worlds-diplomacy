@@ -439,19 +439,25 @@
 
 * **End Of Event**
 
-## Namian Civil War (600 CE - )
+## The Grand Western Wars (600 CE -) 
 * Parties
-    - Namia (Hagan [~], Keshlakia)
+    - Namia 
+    - Urbidia
+    - Haradabia (now Haradi)
+    - Hapumia
     - Namian Rebels
         - Artai (Northern Namia)
-        - Durai (Southern Namia, Dur County, Dur-Dara, Duria)
-            - Nami-Durai (Namia)
-            - ~~Urbi-Durai (Urbidia)~~
-            - ~~Hara-Durai (Haradabia)~~
-            - ~~Hapum-Durai (Hapumia)~~
+        - Durai (Southern Namia, Duria)
+            - Nami-Durai (Namia) / Durai
+            - Hapum-Durai (Hapumia) / Hapumi
         - Neo-Der (Der)
         - Eku (Elul)
         - Ibai (Ibagubaid)
+    - Haradi
+    - Urbi (Urbidia)
+
+
+### 1. Namian Civil War (600 CE - )
 * 600 CE
     * Ekui Offensive
         - Eku breaks out of Elul into Namia
@@ -462,9 +468,44 @@
     * Neo-Der takes Mash.
 * 601 CE
     * Artai, Durai, Neo-Der and Eku declare Naval Borders.
-    * Durai-associated rebels (Urbi-Durai) take Dur County.
     * Ibai takes Hiruniba.
-    * Durai-associated rebels (Hara-Durai) take Dur-Dara.
     * Dûr-Bia falls to Rebels
-    * Durai-associated rebels (Hapum-Durai) take Duria.
+    * Hagan County falls.
+    * Ibai declares naval border.
+* 602 CE
+    * Ibai takes Shalzuhas and Neo-Der takes Gibil
+* 603 CE
+    * Namia on the brink of collapse.
 
+### 2. Urbidian Civil War (602 CE - )
+* Pre-602 CE
+    * Durai-associated rebels (Urbi-Durai) take Dur County. (601 CE)
+* 602 CE
+    * Urbi-Durai takes Sharigrab
+    * Urbidia declares war on Urbi-Durai (Urbi).
+    * Urbi declares Gidubaqut river claim.
+* 603 CE
+    * Urbi claims Nidia.
+    * Urbi splits from Durai.
+
+### 3. Haradabian Civil War (602 CE - 604 CE)
+* Pre-602 CE
+    * Durai-associated rebels (Hara-Durai) take Dur-Dara. (601 CE)
+* 602 CE
+    * Hara-Durai declares Kutuhan claim
+    * Haradabia declares war on Hara-Durai (Haradi).
+* 603 CE
+    * Haradi splits from Durai.
+* 604 CE
+    * Haradi, after a series of battles, takes Haradabia.
+    * Haradabia is renamed to the Haradian Despotate.
+
+* **End of Event**
+
+### 4. Hapumian Civil War (603 CE -)
+* Pre-603 CE
+    * Durai-associated rebels (Hapum-Durai) take Duria. (601 CE)
+    * Hapum-Durai declares i-Dawat river claim. (602 CE)
+* 603 CE
+    - Hapum-Durai claims Lar-Tulan & Ninia
+    - Hapumia declares war on Hapum-Durai (Hapumi)
