@@ -1,6 +1,6 @@
 # Margisian Diplomacy
 
-## Seta-Nefrawtian War (pre-603 AE - )
+## Seta-Nefrawtian War (pre-603 AE - 603 AE)
 * Parties:
     * Seta
     * Defenders
@@ -14,6 +14,25 @@
     - Tsayangia $\not\xrightarrow{+A}$ Seta
     - Khangel $\not\xrightarrow{+A}$ Seta
     - Mishun invades the lower counties.
+* 603 AE
+    * Naval Battle of Cobury
+        - Mishun $\xrightarrow{A}$ Seta
+        - Setan defeat
+    * Battle of Bouba
+        - Nefrawt & Mishun $\xrightarrow{A}$ Seta
+        - Joint-Nefrawtian and Misunian Victory
+    * Battle of Tarilal
+        - Nefrawt & Mishun $\xrightarrow{A}$ Seta
+        - Setan Victory
+    * Naval Battle of Thetle
+        - Mishun $\xrightarrow{A}$ Seta
+        - Setan defeat
+    * Final Battle of Ridah
+        - Nefrawt $\xrightarrow{A}$ Seta
+        - Setan defeat
+    - Seta surrenders, and falls.
+
+* **End Of Event**
 
 ## Quangcham-Thaian War (pre-603 AE - )
 * Parties:
