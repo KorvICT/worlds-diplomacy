@@ -60,6 +60,18 @@
     - Chunwia $\xrightarrow{+D}$ Develi
     - Kelensyurt $\not\leftrightarrow$ Develi
     - Quangcham $\xrightarrow{+D}$ Develi
+* 603 AE
+    * Battle of Sihran
+        - Chunwia $\xrightarrow{A}$ Sirwah
+        - Sirwah outnumbered 3 to 1
+        - Disasterous defeat for Sirwah
+    * Naval Battle of Chary
+        - Chunwia $\xrightarrow{A}$ Sirwah
+        - Sirwah outnumbered 57 to 1
+        - Minor skirmish, but defeat for Sirwah
+    - Sirwah requests surrender, and Armistice is called.
+    - Chunwia recieves mandate up to blue line.
+    - Zone I and Zone II Mandates created.
 ‍
 ## Harana-Houazian War (pre-603 AE - )
 * Parties:
