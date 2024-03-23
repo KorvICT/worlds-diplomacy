@@ -34,7 +34,7 @@
 
 * **End Of Event**
 
-## Quangcham-Thaian War (pre-603 AE - )
+## Quangcham-Thaian War (pre-603 AE - 603 AE)
 * Parties:
     * Attackers
         - Quangcham
@@ -63,6 +63,18 @@
     - Thaieu surrenders, passing administrative power to Quangcham.
 
 * **End of Event**
+
+## Quangchami Administration of Thaieu (603 AE - )
+
+* Parties
+    * Quangcham
+    * Thaieu
+    * SNP
+* 603 AE
+    - Quangcham extends administrative power to parts of Quangchami-claimed Sirwah.
+    - After the founding of the SNP, Quangcham extends administrative power to sections of Quangchami-claimed Sirwah.
+* 605 AE
+    - Martial Rule declared for all Administrated regions & Mandates
 ‍
 ## Sirwah-Develian War (pre-603 AE - )
 * Parties
@@ -70,6 +82,7 @@
     * Defenders
         - Develi
         - Quangcham
+        - Chunwia
 * pre-603 AE
     - Sirwah $\xrightarrow{W}$ Develi
     - Chunwia $\xrightarrow{+D}$ Develi
@@ -85,8 +98,29 @@
         - Sirwah outnumbered 57 to 1
         - Minor skirmish, but defeat for Sirwah
     - Sirwah requests surrender, and Armistice is called.
-    - Chunwia recieves mandate up to blue line.
+
+## Sirwaian Mandates (603 AE - )
+
+* Parties
+    * Sirwah
+    * Quangcham
+        - Zone A Mandate
+        - Zone B Mandate
+    * Chunwia
+        - Zone I Mandate
+        - Zone II Mandate
+        - Zone III Mandate
+        - Zone IV Mandate
+    * Sirwaian Nationalist Party (SNP)
+* 603 AE
+    - Chunwia recieves mandate up to Blue Line.
     - Zone I, Zone II and Zone III Mandates created.
+    - Quangcham gains partial mandate to be expanded to Blue Line
+    - Zone A Mandate created.
+    - Zone IV Mandate created.
+    - Zone B Mandate created, Sirwaian Nationalist Party (SNP) founded.
+* 605 AE
+    - Martial Rule declared for all Quangchami Administrated regions & Mandates
 ‍
 ## Harana-Houazian War (pre-603 AE - )
 * Parties:
