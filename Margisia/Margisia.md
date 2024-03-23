@@ -48,6 +48,21 @@
     - Chunwia $\not\xrightarrow{+A}$ Quangcham
     - Kelensyurt $\xrightarrow{+A}$ Quangcham
     - Develi $\xrightarrow{+A}$ Quangcham
+* 603 AE
+    - Quangchami militas plough through Thaieu.
+    * Battle of Luong
+        - Quangcham $\xrightarrow{A}$ Thaieu
+        - Decisive Victory for Quangcham
+    * Battle of Phu Tien
+        - Quangcham $\xrightarrow{A}$ Thaieu
+        - Disasterous Defeat for Thaieu
+    - Thaian fleets consolidate.
+    * Redclif Landing
+        - Quangcham $\xrightarrow{A}$ Thaieu
+        - Minor skirmish, but Quangcham Victory.
+    - Thaieu surrenders, passing administrative power to Quangcham.
+
+* **End of Event**
 ‍
 ## Sirwah-Develian War (pre-603 AE - )
 * Parties
@@ -71,7 +86,7 @@
         - Minor skirmish, but defeat for Sirwah
     - Sirwah requests surrender, and Armistice is called.
     - Chunwia recieves mandate up to blue line.
-    - Zone I and Zone II Mandates created.
+    - Zone I, Zone II and Zone III Mandates created.
 ‍
 ## Harana-Houazian War (pre-603 AE - )
 * Parties:
