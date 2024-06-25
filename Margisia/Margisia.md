@@ -65,16 +65,18 @@
 * **End of Event**
 
 ## Quangchami Administration of Thaieu (603 AE - )
-
 * Parties
     * Quangcham
     * Thaieu
     * SNP
+    * TLF
 * 603 AE
     - Quangcham extends administrative power to parts of Quangchami-claimed Sirwah.
     - After the founding of the SNP, Quangcham extends administrative power to sections of Quangchami-claimed Sirwah.
 * 605 AE
     - Martial Rule declared for all Administrated regions & Mandates
+* 606 AE
+    - Thaieu Liberation Front (TLF) Founded
 ‍
 ## Sirwah-Develian War (pre-603 AE - )
 * Parties
@@ -100,7 +102,6 @@
     - Sirwah requests surrender, and Armistice is called.
 
 ## Sirwaian Mandates (603 AE - )
-
 * Parties
     * Sirwah
     * Quangcham
@@ -111,7 +112,8 @@
         - Zone II Mandate
         - Zone III Mandate
         - Zone IV Mandate
-    * Sirwaian Nationalist Party (SNP)
+    * Sirwaian Nationalist Party (SNP, 603 AE)
+    * Thaieu Liberation Front (TLF, 606 AE)
 * 603 AE
     - Chunwia recieves mandate up to Blue Line.
     - Zone I, Zone II and Zone III Mandates created.
@@ -121,6 +123,31 @@
     - Zone B Mandate created, Sirwaian Nationalist Party (SNP) founded.
 * 605 AE
     - Martial Rule declared for all Quangchami Administrated regions & Mandates
+    - Chunwia begins treaty process with Mandates.
+    - Treaty 1 drafted. This would act as the basis for future treaty discussions.
+    - Treaty 1 ratified.
+    - First referendum held.
+* 606 AE
+    - Second referendum held, with Independence winning.
+    - Rafara gains Independence.
+    - SNP grows influence throughout Sirwah and Quangchami Administrative regions.
+    - Thaieu Liberation Front (TLF) founded.
+    - Treaty 2 drafted.
+* 607 AE
+    - Treaty 2 ratified and referendum held.
+    - al-Mubarwah gains Independence.
+
+## SNP War of Independence (606 AE - )
+* Parties
+    * Quangcham
+    * Sirwaian Nationalist Party (SNP)
+* 606 AE
+    * SNP Militias start Battle of Sanejman
+    * Battle of Sanejman
+        - SNP $\xrightarrow{A}$ Quangcham
+        - Disasterous Quangchami defeat.
+
+
 ‍
 ## Harana-Houazian War (pre-603 AE - )
 * Parties:
