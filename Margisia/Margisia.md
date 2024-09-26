@@ -69,14 +69,33 @@
     * Quangcham
     * Thaieu
     * SNP
+        - Northern Sirwah Liberation Front (NSLF)
+        - Southern Sirwah Nationalist Front (SSNF)
     * TLF
 * 603 AE
-    - Quangcham extends administrative power to parts of Quangchami-claimed Sirwah.
     - After the founding of the SNP, Quangcham extends administrative power to sections of Quangchami-claimed Sirwah.
 * 605 AE
     - Martial Rule declared for all Administrated regions & Mandates
 * 606 AE
     - Thaieu Liberation Front (TLF) Founded
+* 607 AE
+    - TLF and SNP team together as the United Liberated Fronts (ULF).
+    - ULF declares war on Quangcham.
+
+## ULF War of Independence (607 AE - )
+* Parties
+    * Quangcham
+    * ULF
+        - SNP (Northern Sirwah Liberation Front / NSLF)
+        - TLF
+* 607 AE
+    - Battle of Noster
+        - ULF $\xrightarrow{A}$ Quangcham
+        - Disasterous defeat for Quangcham
+    - ULF declares Independence
+    - Quangcham surrenders and Armistice is called.
+    - Quangchami Regiments move to Ninh.
+    - Quangcham 
 ‍
 ## Sirwah-Develian War (pre-603 AE - )
 * Parties
@@ -105,11 +124,11 @@
 * Parties
     * Sirwah
     * Quangcham
-        - Zone A Mandate
-        - Zone B Mandate
+        - Zone A Mandate (dissolved 607 AE)
+        - Zone B Mandate (dissolved 607 AE)
     * Chunwia
-        - Zone I Mandate
-        - Zone II Mandate
+        - Rafara
+        - al-Mubarwah
         - Zone III Mandate
         - Zone IV Mandate
     * Sirwaian Nationalist Party (SNP, 603 AE)
@@ -136,8 +155,10 @@
 * 607 AE
     - Treaty 2 ratified and referendum held.
     - al-Mubarwah gains Independence.
+    - Zone A and B Mandates dissolved.
+    - SNP (NSLF) withdraws from Sirwah below the Blue Line.
 
-## SNP War of Independence (606 AE - )
+## SNP War of Independence (606 AE - 607 AE)
 * Parties
     * Quangcham
     * Sirwaian Nationalist Party (SNP)
@@ -146,8 +167,10 @@
     * Battle of Sanejman
         - SNP $\xrightarrow{A}$ Quangcham
         - Disasterous Quangchami defeat.
+* 607 AE
+    - SNP and Thaieu Liberation Front unite into the ULF.
 
-
+* **End of Event**
 ‍
 ## Harana-Houazian War (pre-603 AE - )
 * Parties:

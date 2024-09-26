@@ -34,4 +34,36 @@
         - Unification w/ Sirwah: 37%
         
 
+## Quangchami Treaties
 
+### Treaty of Binh (607 AE, re. 607 AE)
+
+* Parties
+    * Quangcham
+    * ULF
+        - TLF
+        - NSLF
+* Articles
+    * ULF gains full control of its lands
+    * They shall be known as the Confederation of Thaieu, Northern Sirwah and Quangcham (mcka Samian Confederation)
+    * ULF lands shall consist of the following:
+        - Thaieu
+        - Quangchami lands not specified below
+        * Northern Sirwah, consisting of:
+            - Alka County
+            - Alhuwaiq County
+            - Duc Captaincy
+            - Huong Earldom
+    * Quangchami lands shall consist of these counties:
+        - Nam Linh An County
+        - Quangkhe County
+        - Ha Gia County
+        - Quang Chau County
+        - Duy County
+        - Ninh County
+        - Uongdocia County
+    * And of these shires and earldoms:
+        - Ngatria Shire
+        - Ninhia Shire
+        - Sa-Hue Son Earldom
+    
