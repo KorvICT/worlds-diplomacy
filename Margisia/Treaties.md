@@ -45,7 +45,7 @@
         - NSLF
 * Articles
     * ULF gains full control of its lands
-    * They shall be known as the Confederation of Thaieu, Northern Sirwah and Quangcham (mcka Samian Confederation)
+    * They shall be known as the Samian Confederation of Thaieu, Northern Sirwah and Quangcham (Samian Confederation)
     * ULF lands shall consist of the following:
         - Thaieu
         - Quangchami lands not specified below

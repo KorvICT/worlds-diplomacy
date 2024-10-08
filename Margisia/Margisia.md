@@ -64,7 +64,7 @@
 
 * **End of Event**
 
-## Quangchami Administration of Thaieu (603 AE - )
+## Quangchami Administration of Thaieu (603 AE - 607 AE)
 * Parties
     * Quangcham
     * Thaieu
@@ -82,7 +82,9 @@
     - TLF and SNP team together as the United Liberated Fronts (ULF).
     - ULF declares war on Quangcham.
 
-## ULF War of Independence (607 AE - )
+* **End Of Event**
+
+## ULF War of Independence (607 AE)
 * Parties
     * Quangcham
     * ULF
@@ -95,7 +97,9 @@
     - ULF declares Independence
     - Quangcham surrenders and Armistice is called.
     - Quangchami Regiments move to Ninh.
-    - Quangcham 
+    - Quangcham signs Treaty of Binh
+
+* **End Of Event**
 ‍
 ## Sirwah-Develian War (pre-603 AE - )
 * Parties
@@ -191,7 +195,7 @@
     - Khebour $\xrightarrow{+A}$ Harana
     - Denan Guo $\xrightarrow{+A}$ Harana
 ‍
-## Jian Guo-Denan Gian War (pre-603 AE - )
+## Jian Guo-Denan Gian War (pre-603 AE - ~603AE)
 * Parties:
     * Attackers
         - Jian Guo
@@ -202,7 +206,19 @@
     - Seta $\not\leftrightarrow$ Denan Guo
     - Harana $\not\leftrightarrow$ Denan Guo
     - Khebour $\xrightarrow{+A}$ Jian Guo 
+* circa 603 AE
+    - Jian Guo surrenders and Armistice called.
+
+* **End Of Event**
+
+## Denan Guoan Administration (~603 AE - )
+* Parties
+    * Denan Guo
+    * Jian Guo
 
 ## Hurengolese Civil War (pre-603 AE - )
+* Parties
+    * Hurengol
+    * Haranian Rebels
 * pre-603 AE
     * pro-Haranan rebels attack Hurengol.
