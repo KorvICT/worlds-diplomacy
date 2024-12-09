@@ -33,6 +33,19 @@
         - Independence: 59%
         - Unification w/ Sirwah: 37%
         
+### Treaty 3 (608 AE, rat. 608)
+
+* Parties
+    * Chunwia
+    * Zone III Mandate
+* Articles
+    * Zone III shall recieve full independent control of its lands, if willing,
+    * and shall be granted the opportunity to unite with Sirwah, if willing.
+    * This referendum shall occur no later than five years after the ratification of the treaty.
+* Referendum Results
+    * Round I
+        - Independence: 71%
+        - Unification w/ Sirwah: 29%
 
 ## Quangchami Treaties
 

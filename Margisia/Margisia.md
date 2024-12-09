@@ -133,10 +133,11 @@
     * Chunwia
         - Rafara
         - al-Mubarwah
-        - Zone III Mandate
+        - Ghara
         - Zone IV Mandate
-    * Sirwaian Nationalist Party (SNP, 603 AE)
-    * Thaieu Liberation Front (TLF, 606 AE)
+    * Sirwaian Nationalist Party (SNP, 603 AE - 607 AE)
+    * Thaieu Liberation Front (TLF, 606 AE - 607 AE)
+    * Samian Liberation Front (SLF, 607 AE -)
 * 603 AE
     - Chunwia recieves mandate up to Blue Line.
     - Zone I, Zone II and Zone III Mandates created.
@@ -161,6 +162,24 @@
     - al-Mubarwah gains Independence.
     - Zone A and B Mandates dissolved.
     - SNP (NSLF) withdraws from Sirwah below the Blue Line.
+    - SNP (SSNF) renames to the Samian Liberation Front.
+    - SLF starts new offensive.
+* 608 AE
+    - Treaty 3 drafted, ratified and referendum held.
+    - Ghara gains Independence.
+    - SLF Militias declare war on Sirwah
+
+## Sirwaian War (608 AE -)
+* Parties
+    * Sirwah
+    * Samian Liberation Front (SLF)
+* 608 AE
+    - Battle of Alkhadeh
+        - SLF $\xrightarrow{A}$ Sirwah
+        - Disasterous Sirwaian defeat.
+    - Battle of Sakahrah
+        - SLF $\xrightarrow{A}$ Sirwah
+        - Decisive SLF victory.
 
 ## SNP War of Independence (606 AE - 607 AE)
 * Parties
