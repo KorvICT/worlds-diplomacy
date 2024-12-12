@@ -101,7 +101,7 @@
 
 * **End Of Event**
 ‍
-## Sirwah-Develian War (pre-603 AE - )
+## Sirwah-Develian War (pre-603 AE - 603 AE)
 * Parties
     * Sirwah
     * Defenders
@@ -124,7 +124,9 @@
         - Minor skirmish, but defeat for Sirwah
     - Sirwah requests surrender, and Armistice is called.
 
-## Sirwaian Mandates (603 AE - )
+* **End of Event**
+
+## Sirwaian Mandates (603 AE - 608 AE)
 * Parties
     * Sirwah
     * Quangcham
@@ -134,7 +136,7 @@
         - Rafara
         - al-Mubarwah
         - Ghara
-        - Zone IV Mandate
+        - Governate of Fateem
     * Sirwaian Nationalist Party (SNP, 603 AE - 607 AE)
     * Thaieu Liberation Front (TLF, 606 AE - 607 AE)
     * Samian Liberation Front (SLF, 607 AE -)
@@ -168,8 +170,57 @@
     - Treaty 3 drafted, ratified and referendum held.
     - Ghara gains Independence.
     - SLF Militias declare war on Sirwah
+    - Ghara, the SLF, Develi & Dev begin operations in Zone IV Mandate
+    - Zone IV Mandate renamed to Fateem Mandate
+    - After events of the Fateem Spring, the mandate is lifted.
+    - Governate of Fateem is formed.
 
-## Sirwaian War (608 AE -)
+* **End of Event**
+
+## Fateem Spring (608 AE - 609 AE)
+* Parties
+    * Ghara
+    * SLF
+    * Develi
+    * Dev
+    * Fateem People's Revolution (FPR, 608 AE -)
+    * Governate of Fateem (FGF, 608 AE -)
+    * Chunwia (609 AE)
+* 608 AE
+    - Pro-independence protests break out.
+    - FPR is formed.
+    - Calls for lifting mandate skyrocket.
+    - Mandate is lifted, and Governate of Fateem is formed.
+* 609 AE
+    - Chunwia gains foothold in Kharah.
+    - FGF falls into civil war.
+
+* **End of Event**
+
+## Fateem Civil War (609 AE -)
+* Parties
+    * Ghara
+    * SLF
+    * Develi (w.d. 609 AE)
+    * Dev (w.d. 610 AE)
+    * Fateem People's Revolution (FPR)
+    * Governate of Fateem (FGF)
+    * Chunwia (w.d. 609 AE)
+* 609 AE
+    - Develi withdrawls from FGF.
+    - Chunwia withdrawls from FGF.
+* 610 AE
+    - Dev forced out by FGF, with land gained in Dev
+    - Dev surrenders, and withdraws from FGF.
+    - FGF forces withdraw from Dev.
+    - SLF forced out, but returns.
+    - FPR weakened.
+    - Stalemate reached.
+* 611 AE
+    - FGF negotiates withdrawl of claim of Sharqah & Binah, in exchange for SLF withdrawl.
+    - SLF refuses.
+
+## Sirwaian Civil War (608 AE -)
 * Parties
     * Sirwah
     * Samian Liberation Front (SLF)
@@ -241,3 +292,5 @@
     * Haranian Rebels
 * pre-603 AE
     * pro-Haranan rebels attack Hurengol.
+* 603 AE
+    * Ceasefire put into place.
