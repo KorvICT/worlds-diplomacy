@@ -197,15 +197,16 @@
 
 * **End of Event**
 
-## Fateem Civil War (609 AE -)
+## Fateem Civil War (609 AE - 612 AE)
 * Parties
-    * Ghara
+    * Ghara (w.d. 612 AE)
     * SLF
     * Develi (w.d. 609 AE)
     * Dev (w.d. 610 AE)
     * Fateem People's Revolution (FPR)
     * Governate of Fateem (FGF)
     * Chunwia (w.d. 609 AE)
+    * Sharqah-Binah Liberation Front (SBLF, assoc. SLF, 611 AE -)
 * 609 AE
     - Develi withdrawls from FGF.
     - Chunwia withdrawls from FGF.
@@ -219,6 +220,53 @@
 * 611 AE
     - FGF negotiates withdrawl of claim of Sharqah & Binah, in exchange for SLF withdrawl.
     - SLF refuses.
+    - SLF rebels forced out of city of Alhaf.
+    - Ghara occupies Alkhuzwa County.
+    - SLF regains control of Alhaf, and gains control over Kharah.
+    - SLF fully forced out of Fateem. Only minor SLF-associated militas remain in Sharqah and Biniah.
+    - FPR forced out of Shurah.
+    - Ghara forced out of Alkhuzwa County.
+    - Sharqah-Binah Liberation Front (SBLF) forms.
+    - Stalemate reached.
+* 612 AE
+    - FGF starts offensive in Sharqah and Binah, capturing the main cities.
+    - FGF gains control of Sharqah and Binah.
+    - SBLF gains control of town of Farif.
+    - FPR starts offensive towards capitol, gaining control of Shurah.
+    - FPR starts forcing out Gharan forces.
+    - Gharan forces retreat, gaining control of Alkhuzwa County along the way.
+    - Gharan forces surrender to FPR, withdrawling from Bumahrah.
+    - Gharan forces surrender to FGF, withdrawling from Alkhuzwa.
+    - FGF regains control of Alkhuzwa.
+    - SBLF regain control of Sharqah and Binah.
+    - SBLF gain control of Kharah, other major cities surrounded by FPR forces.
+    - FPR gains control of Alhaf and Alsanah.
+    - Treaty of Alhaf signed.
+
+* **End of Event**
+
+## Fateem Reconstruction (612 AE - 613 AE)
+
+* Parties
+    * FGF (dis. 612 AE)
+    * SBLF (dis. 612 AE)
+    * SLF
+    * FPR (dis. 612 AE)
+    * Fateem Free State (FSF, 612 AE - 613 AE)
+    * Fateem Transitionary Government (FTG, 612 AE)
+    * Qasar
+* 612 AE
+    - SBLF forces withdraw from Fateem.
+    - Governate lands cut back to only Fateem and Alkhuzwah.
+    - SBLF dissolves, and combines with SLF.
+    - FGF dissolves, becoming Fateem Transitionary Government (FTG).
+    - FPR dissolves, becomes Fateem Free State (FSF).
+    - Republic of Qasar forms, acting as next phase of FTG.
+    - FTG dissolves.
+* 613 AE
+    - FSF integrates into Qasar as the Salfa Governorate.
+
+* **End Of Event**
 
 ## Sirwaian Civil War (608 AE -)
 * Parties
@@ -231,6 +279,8 @@
     - Battle of Sakahrah
         - SLF $\xrightarrow{A}$ Sirwah
         - Decisive SLF victory.
+* 609 AE 
+    - Stalemate reached.
 
 ## SNP War of Independence (606 AE - 607 AE)
 * Parties

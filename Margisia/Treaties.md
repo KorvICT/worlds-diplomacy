@@ -47,6 +47,21 @@
         - Independence: 71%
         - Unification w/ Sirwah: 29%
 
+### Treaty of Alhaf (612 AE, ratified 612)
+
+* Parties
+    * SLF
+    * SBLF (assoc. SLF)
+    * FGF (Fateem)
+    * FPR
+* Articles
+    * FGF shall be dissolved.
+    * All SBLF lands outside of Fateem shall be transferred to SLF.
+    * SBLF shall withdrawl from Fateem lands.
+    * SBLF shall be reunited with the SLF.
+    * A transitionary government shall form, transferring full power to the new Nation of Fateem (TBN).
+    * Main FPR lands shall form Free State.
+
 ## Quangchami Treaties
 
 ### Treaty of Binh (607 AE, re. 607 AE)
